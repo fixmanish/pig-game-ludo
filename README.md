@@ -2,6 +2,8 @@
 
 This Pig Game (also known as Ludo) is a simple dice game where two players take turns to roll a dice and accumulate scores. The project was developed as a part of the JavaScript Bootcamp course guided by Jonas Schemdtmann. It demonstrates the concepts of DOM Manipulation using HTML, CSS, and JavaScript.
 
+You can try the game here - https://fixmanish.github.io/pig-game-ludo/ 
+
 ## Game Overview 🐷
 
 ![image](https://github.com/fixmanish/pig-game-ludo/assets/131751286/d9e26f40-f0b8-49b2-9a1a-3a9b6b387eea)
@@ -34,7 +36,7 @@ In the Pig Game, two players compete to reach a total score of 100. The player w
 
 ## Preview 📷
 
-![image](https://github.com/fixmanish/pig-game-ludo/assets/131751286/850bcbce-2864-42aa-bb80-e9922b7b3c6d)
+![image](https://github.com/fixmanish/pig-game-ludo/assets/131751286/dcdd5307-b490-4e1e-aa2d-c52389aace7b)
 
 ## Acknowledgements 🙏
 
